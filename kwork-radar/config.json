@@ -1,0 +1,19 @@
+{
+  "categories": [11, 56, 43, 113, 44, 49, 83],
+  "maxOffers": 50,
+  "minPrice": 500,
+  "model": "opus",
+  "effort": "medium",
+  "parallel": 3,
+  "maxCards": 0,
+  "linkLimit": 4000,
+  "linkTimeoutMs": 12000,
+  "services": {
+    "white": ["сайты", "Тильда", "WordPress", "домены", "хостинги", "DNS", "Яндекс Метрика", "Dikidi", "настройка MAX", "n8n", "облачные сервисы с документацией и бесплатным входом"],
+    "black": ["Битрикс24", "МойСклад", "Telegram", "WhatsApp"],
+    "ask": ["Discord", "другие сервисы без опыта, но с возможной песочницей"]
+  },
+  "quietFrom": 19,
+  "quietTo": 5,
+  "userId": null
+}
